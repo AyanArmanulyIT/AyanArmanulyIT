@@ -103,6 +103,6 @@ Alongside complete bots, I build specialized tools and integrations such as:
 
 ### Let’s build something useful.
 
-[Explore My Projects](https://github.com/AyanArmanulyIT?tab=repositories) · [Contact Me](https://t.me/your_username)
+[Explore My Projects](https://github.com/AyanArmanulyIT?tab=repositories) · [Contact Me](https://t.me/qcebd)
 
 </div>
